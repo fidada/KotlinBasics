@@ -2,6 +2,9 @@ package com.bilqismufida.kotlinbasics
 
 fun main(){
 
+
+    //LATIHAN VARIABLE & TIPE DATA
+
 // 1.
     val itClass : String = "Android Masterclass"
     println(itClass)
