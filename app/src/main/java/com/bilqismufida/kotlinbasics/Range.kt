@@ -8,11 +8,12 @@ fun main(){
 
     //range nya turun
     val range2 = 100 downTo 1
+    println(range2)
 
     //count untk mendapatkan total data range
     println(range.count())
 
-    //contains utk ngecek pakah ada value (nilai) tersebut pada range
+    //contains utk ngecek apakah ada value (nilai) tersebut pada range
     println(range.contains(50))
     println(range.contains(200))
 
